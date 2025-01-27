@@ -18,13 +18,16 @@
 ![Fortinet NSE 3](https://img.shields.io/badge/Network%20Security%20Expert%20Level%203-Fortinet-blue?style=flat&logo=fortinet)
 ![Cisco Verified Network Defense](https://img.shields.io/badge/Verified%20Network%20Defense-Cisco-green?style=flat&logo=cisco)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-AWS-orange?style=flat&logo=amazonaws)
+![Oracle Cloud Infrastructure Foundations Associate](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20Foundations%20Associate-Oracle-red?style=flat&logo=oracle)
+![Cisco Junior Cybersecurity Analyst Career Path](https://img.shields.io/badge/Cisco%20Junior%20Cybersecurity%20Analyst-Cisco-blue?style=flat&logo=cisco)
 
+- **Network Security Expert (NSE) Level 3** - Fortinet
 - **Network Security Expert (NSE) Level 3** - Fortinet
 - **Verified Network Defense** - Cisco
 - **Cloud Practitioner** - AWS Cloud Quest
+-  **Oracle Cloud Infrastructure Foundations Associate** - Oracle
+- **Junior Cybersecurity Analyst Career Path** - Cisco
 
-## GitHub Stats
-![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkurPotdar&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 
 
