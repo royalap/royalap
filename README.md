@@ -9,7 +9,7 @@
 ### Skills & Expertise
 - **Cybersecurity**: Vulnerability Assessment, Penetration Testing, Network Security
 - **Networking**: Routing, Switching, Network VAPT
-- **Programming Languages**: Python
+- **Programming Languages**: Python,Bash
 - **Cloud Technologies**: AWS, Oracle, Azure
 - **Tools**: 
   - Burp Suite, Ghidra, Nessus, Nmap, Postman API, Wireshark, OWASP ZAP, Autopsy, Putty
