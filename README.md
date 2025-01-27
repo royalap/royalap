@@ -14,7 +14,6 @@
 - **Tools**: 
   - Burp Suite, Ghidra, Nessus, Nmap, Postman API, Wireshark, OWASP ZAP, Autopsy, Putty
  
-  ![Linux GIF](https://media.giphy.com/media/l3vQXf4jNqgbAxHJy/giphy.gif)  <!-- Linux-related GIF -->
 
 ## Certifications
 ![Fortinet NSE 3](https://img.shields.io/badge/Network%20Security%20Expert%20Level%203-Fortinet-blue?style=flat&logo=fortinet)
