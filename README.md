@@ -28,5 +28,5 @@
 ## Contact Me
 - **Email**: [ankurpotdar2264@gmail.com](mailto:ankurpotdar2264@gmail.com)
 - **Phone**: +91-9370368298
-- **LinkedIn**: [Ankur Potdar](https://www.linkedin.com/in/ankurpotdar)
-- **GitHub**: [AnkurPotdar](https://github.com/AnkurPotdar)
+- **LinkedIn**: [Ankur Potdar](https://www.linkedin.com/in/ankur-potdar-689029246)
+- **GitHub**: [AnkurPotdar](https://github.com/royalap)
