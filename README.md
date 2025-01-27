@@ -22,7 +22,6 @@
 ![Cisco Junior Cybersecurity Analyst Career Path](https://img.shields.io/badge/Cisco%20Junior%20Cybersecurity%20Analyst-Cisco-blue?style=flat&logo=cisco)
 
 - **Network Security Expert (NSE) Level 3** - Fortinet
-- **Network Security Expert (NSE) Level 3** - Fortinet
 - **Verified Network Defense** - Cisco
 - **Cloud Practitioner** - AWS Cloud Quest
 -  **Oracle Cloud Infrastructure Foundations Associate** - Oracle
