@@ -23,6 +23,9 @@
 - **Verified Network Defense** - Cisco
 - **Cloud Practitioner** - AWS Cloud Quest
 
+## GitHub Stats
+![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkurPotdar&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
 
 
 ## Contact Me
