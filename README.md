@@ -3,9 +3,9 @@
 ## 🔗 Connect with Me  
 <a href="https://www.linkedin.com/in/ankur-potdar-689029246" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40">
-
 </a>  
- [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Ankurpotdar.png)](https://tryhackme.com/p/Ankurpotdar)
+ ## 🏆 TryHackMe Badge  
+[![TryHackMe](https://tryhackme.com/api/badges/1993260)](https://tryhackme.com/p/Ankurpotdar)
 
 
 <h3 align="left">Languages and Tools:</h3>
