@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankur Potdar</h1>
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/ankur-potdar-689029246) [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Ankurpotdar.png)](https://tryhackme.com/p/Ankurpotdar)
+<a href="https://www.linkedin.com/in/ankur-potdar-689029246" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40">
+</a>[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Ankurpotdar.png)](https://tryhackme.com/p/Ankurpotdar)
 
 
 
