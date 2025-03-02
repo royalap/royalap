@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ankur Potdar</h1> 
-
-## 🏆 TryHackMe Badge  
-[![TryHackMe](https://tryhackme.com/api/badges/1993260)](https://tryhackme.com/p/Ankurpotdar)
+<h1 align="center">Hi 👋, I'm Ankur Potdar</h1>
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-potdar-689029246)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-potdar-689029246) [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Ankurpotdar.png)](https://tryhackme.com/p/Ankurpotdar)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
