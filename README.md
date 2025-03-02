@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankur Potdar</h1> 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 ## 🏆 TryHackMe Badge  
 [![TryHackMe](https://tryhackme.com/api/badges/1993260)](https://tryhackme.com/p/Ankurpotdar)
 
